@@ -1,1 +1,2 @@
-# Global-Superstore
+# SQL Projects
+<!--Global-Superstore -->
